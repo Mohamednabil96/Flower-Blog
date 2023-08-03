@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link:hover {
+    border: none;
+    color: white !important;
+}
+.active{
+    color: white !important;
+}
+.underlinedT{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.underlinedT:hover{
+    text-decoration: none;
+    color: black !important;
+}
+.underlinedText{
+    cursor: pointer;
+}
+.underlinedText:hover{
+    text-decoration: underline;
+}
+.linka {
+color: rgb(108,117,125);
+}
+.linka:hover{
+color:white;
+text-decoration: none;
+}
